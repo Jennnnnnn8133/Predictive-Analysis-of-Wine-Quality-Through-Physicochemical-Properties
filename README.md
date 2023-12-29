@@ -10,6 +10,10 @@
 ## Dataset
 [UC Irvine Wine Quality Dataset](https://archive.ics.uci.edu/dataset/186/wine+quality)
 
+## Data Repository Code on Deepnote:
+
+https://deepnote.com/workspace/acme-ca64-0fb5ecfe-ec71-4cb7-99e8-90be00db5f8a/project/Cheng-Jennys-Untitled-project-a3c1f01a-ca5d-4b40-8096-1cfd5373b0ca/notebook/DATA%20319-%20final%20project-c5e8ed7d5200450a9d15774ec5c29cbf
+
 ## Project Overview:
 Our group conducted a comprehensive analysis of the "Wine Quality" dataset to explore the relationships between physicochemical properties and wine quality. This dataset includes both red and white wines, featuring 12 columns with unique physicochemical properties, and the last column represents the wine quality rating on a base 10 scale.
 
